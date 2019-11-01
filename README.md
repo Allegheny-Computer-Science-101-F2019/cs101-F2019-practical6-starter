@@ -1,4 +1,4 @@
-# cs101-F2019-practical6-solution
+# cs101-F2019-practical6-starter
 
 ## Table of Contents
 
